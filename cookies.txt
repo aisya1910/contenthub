@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+foothillschurch.com	TRUE	/	FALSE	1999999999	PHPSESSID	26871139b6d5838d6468f947daa7ab2f
+foothillschurch.com	TRUE	/	FALSE	1999999999	X-Mapping-ialjbbmd	B998B521D427B6F2D56DEE230BE0C43A
+.fonts.net	TRUE	/	FALSE	1999999999	__cf_bm	1MjsVdWbOewqQXrNiU8yAZISM7smxeNUqwGRvuSS00s-1737281862-1.0.1.1-wh.d1fJah8zU8Sh2T3WmS7r0pAcbyHKkRCKq2AKnr_rIBZp0i66gY_ZymLkD.E9lc7kAOn4U7Jnto.HkOTuAUA
+my.ekklesia360.com	TRUE	/	FALSE	1999999999	AWSALB	0VcOXWZ9Ey1O0+L8BLZ+ChIIIPzekugeYYscGf/OPZtjylQHeUxgs505Pu+5C0n6ZlN9vqy/PGLB5IIr/qxMu20sgCokwsAg1kYDZffNwi3/nH6pKJ8/o0BX/qxK
+my.ekklesia360.com	TRUE	/	FALSE	1999999999	AWSALBCORS	0VcOXWZ9Ey1O0+L8BLZ+ChIIIPzekugeYYscGf/OPZtjylQHeUxgs505Pu+5C0n6ZlN9vqy/PGLB5IIr/qxMu20sgCokwsAg1kYDZffNwi3/nH6pKJ8/o0BX/qxK
+my.ekklesia360.com	TRUE	/	FALSE	1999999999	SameSite	None
+
